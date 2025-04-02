@@ -17,7 +17,8 @@ Die Vereinbarung regelt die Bedingungen für die Nutzung der Filayo-Anwendung, d
 4.1. Filayo übernimmt keine Verantwortung für die Nutzung von durch das Mitglied erstellten Bildern durch Dritte oder Marken.
 4.2. Das Mitglied erklärt und verpflichtet sich, dass die über die Anwendung erstellten Inhalte den geltenden Gesetzen und Urheberrechtsbestimmungen entsprechen.
 4.3. Das Unternehmen haftet nicht für technische Störungen im System, wird jedoch alle Anstrengungen unternehmen, um einen unterbrechungsfreien Service zu gewährleisten.
-4.4. Das Mitglied ist allein für alle rechtlichen Verpflichtungen im Zusammenhang mit den von ihm hochgeladenen Inhalten verantwortlich. 5. Rechtliche Kommunikation und Streitbeilegung
+4.4. Das Mitglied ist allein für alle rechtlichen Verpflichtungen im Zusammenhang mit den von ihm hochgeladenen Inhalten verantwortlich.
+5. Rechtliche Kommunikation und Streitbeilegung
 5.1. Alle offizielle Kommunikation zwischen dem Unternehmen und dem Mitglied muss per E-Mail oder Post erfolgen. Die Kontaktdaten des Unternehmens lauten:
 • Adresse: Hakan Altun - Nixar, An Der Trift 10, 63263 Neu-Isenburg, Deutschland • E-Mail: info@nixar.de
 5.2. Streitigkeiten zwischen den Parteien sind zunächst auf gütlichem Wege beizulegen. Fals keine Einigung erzielt wird, gilt deutsches Recht, und die Gerichte in Frankfurt sind zuständig.
