@@ -1,10 +1,9 @@
 FILAYO NUTZUNGSBEDINGUNGEN UND MITGLIEDSCHAFTSVEREINBARUNG
 1. Parteien und Gegenstand der Vereinbarung
-
 Diese Vereinbarung wird zwischen Nixar - Hakan Altun (im Folgenden als „Unternehmen" bezeichnet) und der Person oder dem Unternehmen abgeschlossen, die/das sich als Mitglied registriert und die Filayo-Anwendung nutzt (im Folgenden als „Mitglied" bezeichnet).
 Die Vereinbarung regelt die Bedingungen für die Nutzung der Filayo-Anwendung, den Mitgliedschaftsprozess sowie die Rechte und Pflichten der Parteien.
 2. Mitgliedschafts- und Nutzungsbedingungen
-21.. Das Mitglied registriert sich für die Filayo-Anwendung, indem es ein Benutzerkonto erstellt und den Mitgliedschaftsprozess einleitet. Die Mitgliedschaft wird aktiv, sobald der Zahlungsvorgang abgeschlossen ist.
+2.1. Das Mitglied registriert sich für die Filayo-Anwendung, indem es ein Benutzerkonto erstellt und den Mitgliedschaftsprozess einleitet. Die Mitgliedschaft wird aktiv, sobald der Zahlungsvorgang abgeschlossen ist.
 2.2. Die Mitgliedschaftsdauer beträgt 30 Tage ab dem Zahlungsdatum und verlängert sich automatisch am Ende jedes 30-tägigen Zeitraums.
 2.3. Die Mitgliedsgebühr wird alle 30 Tage automatisch über die vom Mitglied angegebene Zahlungsmethode abgebucht. 2.4. Falls die Zahlung fehlschlägt, wird die Mitgliedschaft ausgesetzt. Erfolgt keine Zahlung, wird die Mitgliedschaft beendet.
 2.5. Das Mitglied hat das Recht, seine Mitgliedschaft jederzeit zu kündigen. Im Falle einer Kündigung kann das Mitglied den Dienst bis zum Ende des aktuellen Abrechnungszeitraums weiterhin nutzen, es erfolgt jedoch keine Rückerstattung für den gekündigten Zeitraum.
