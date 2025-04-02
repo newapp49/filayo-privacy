@@ -1,5 +1,6 @@
 FILAYO NUTZUNGSBEDINGUNGEN UND MITGLIEDSCHAFTSVEREINBARUNG
 1. Parteien und Gegenstand der Vereinbarung
+
 Diese Vereinbarung wird zwischen Nixar - Hakan Altun (im Folgenden als „Unternehmen" bezeichnet) und der Person oder dem Unternehmen abgeschlossen, die/das sich als Mitglied registriert und die Filayo-Anwendung nutzt (im Folgenden als „Mitglied" bezeichnet).
 Die Vereinbarung regelt die Bedingungen für die Nutzung der Filayo-Anwendung, den Mitgliedschaftsprozess sowie die Rechte und Pflichten der Parteien.
 2. Mitgliedschafts- und Nutzungsbedingungen
